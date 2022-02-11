@@ -1,8 +1,14 @@
 # markitone_frontend using React Native
 
-Run app:
-<p>1, Run app in Android Studio (Run -> Run app)</p>
-<p>2, Run in IntelliJ IDEA: npx react-native start</p>
+<p> Run app:</p>
+<p>1,</p>
+ <p> Window/Ubuntu: Run app in Android Studio (Run -> Run app)</p>
+<p>Mac: cd ios folder -> run "./INSTALL" on terminal of macbook </p>
+<p>or click markitone_app.xcworkspace in ios folder.</p>
+
+<p>2, </p>
+  <p>Window/Ubuntu: Run in IntelliJ IDEA: npx react-native start</p>
+<p>Mac: Run in XCode: Product -> Run</p>
 <p>3, Shake device -> Choose Settings -> Enter your IP V4 & port in "Debug server hosts & pport for device"</p>
 <p>Example: 192.168.1.152:8081</p>
 
