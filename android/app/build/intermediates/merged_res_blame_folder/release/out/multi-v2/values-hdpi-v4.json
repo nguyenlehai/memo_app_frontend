@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/nguyenlehai/.gradle/caches/transforms-3/c0789d996d192f2cb24f2b83b85d1010/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

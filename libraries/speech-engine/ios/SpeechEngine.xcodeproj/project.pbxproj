@@ -1,0 +1,355 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 52;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CF0BCC062465B68E000E984F /* AudioDataRingBuffer.m in Sources */ = {isa = PBXBuildFile; fileRef = CF0BCC052465B68E000E984F /* AudioDataRingBuffer.m */; };
+		CF0E8F02245C671200D44EBF /* MicrophoneRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = CF0E8F01245C671200D44EBF /* MicrophoneRecorder.m */; platformFilter = ios; };
+		CF0E8F09245C8E2800D44EBF /* MicrophoneRecorder.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = CF0E8F00245C671200D44EBF /* MicrophoneRecorder.h */; platformFilter = ios; };
+		CFCCC5E4245DC0E900878101 /* GoogleSpeechRecognitionEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = CFCCC5E0245DC0E900878101 /* GoogleSpeechRecognitionEngine.m */; platformFilter = ios; };
+		CFCCC5E5245DC0E900878101 /* GoogleSpeechGRPC.m in Sources */ = {isa = PBXBuildFile; fileRef = CFCCC5E1245DC0E900878101 /* GoogleSpeechGRPC.m */; platformFilter = ios; };
+		CFCCC5E8245DCA1900878101 /* SpeechRecognition.m in Sources */ = {isa = PBXBuildFile; fileRef = CFCCC5E7245DCA1900878101 /* SpeechRecognition.m */; platformFilter = ios; };
+		CFCCC5E9245DD50E00878101 /* SpeechRecognition.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = CFCCC5E6245DCA1900878101 /* SpeechRecognition.h */; platformFilter = ios; };
+		CFCCC5EA245DD50E00878101 /* GoogleSpeechGRPC.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = CFCCC5E3245DC0E900878101 /* GoogleSpeechGRPC.h */; platformFilter = ios; };
+		CFCCC5EB245DD50E00878101 /* GoogleSpeechRecognitionEngine.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = CFCCC5E2245DC0E900878101 /* GoogleSpeechRecognitionEngine.h */; platformFilter = ios; };
+		CFCCC5EC245DD50E00878101 /* SpeechRecognitionEngine.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = CF0E8F1A245D5C6400D44EBF /* SpeechRecognitionEngine.h */; platformFilter = ios; };
+		DC0729BA1EF78E41004EBC83 /* SpeechEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0729B91EF78E41004EBC83 /* SpeechEngine.m */; platformFilter = ios; };
+		DC0729BB1EF78E41004EBC83 /* SpeechEngine.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = DC0729B81EF78E41004EBC83 /* SpeechEngine.h */; platformFilter = ios; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DC0729B31EF78E41004EBC83 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				CFCCC5E9245DD50E00878101 /* SpeechRecognition.h in CopyFiles */,
+				CFCCC5EA245DD50E00878101 /* GoogleSpeechGRPC.h in CopyFiles */,
+				CFCCC5EB245DD50E00878101 /* GoogleSpeechRecognitionEngine.h in CopyFiles */,
+				CFCCC5EC245DD50E00878101 /* SpeechRecognitionEngine.h in CopyFiles */,
+				CF0E8F09245C8E2800D44EBF /* MicrophoneRecorder.h in CopyFiles */,
+				DC0729BB1EF78E41004EBC83 /* SpeechEngine.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		CF0BCC042465B68E000E984F /* AudioDataRingBuffer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AudioDataRingBuffer.h; sourceTree = "<group>"; };
+		CF0BCC052465B68E000E984F /* AudioDataRingBuffer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AudioDataRingBuffer.m; sourceTree = "<group>"; };
+		CF0E8F00245C671200D44EBF /* MicrophoneRecorder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MicrophoneRecorder.h; sourceTree = "<group>"; };
+		CF0E8F01245C671200D44EBF /* MicrophoneRecorder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MicrophoneRecorder.m; sourceTree = "<group>"; };
+		CF0E8F1A245D5C6400D44EBF /* SpeechRecognitionEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeechRecognitionEngine.h; sourceTree = "<group>"; };
+		CFCCC5E0245DC0E900878101 /* GoogleSpeechRecognitionEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoogleSpeechRecognitionEngine.m; sourceTree = "<group>"; };
+		CFCCC5E1245DC0E900878101 /* GoogleSpeechGRPC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoogleSpeechGRPC.m; sourceTree = "<group>"; };
+		CFCCC5E2245DC0E900878101 /* GoogleSpeechRecognitionEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoogleSpeechRecognitionEngine.h; sourceTree = "<group>"; };
+		CFCCC5E3245DC0E900878101 /* GoogleSpeechGRPC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoogleSpeechGRPC.h; sourceTree = "<group>"; };
+		CFCCC5E6245DCA1900878101 /* SpeechRecognition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeechRecognition.h; sourceTree = "<group>"; };
+		CFCCC5E7245DCA1900878101 /* SpeechRecognition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpeechRecognition.m; sourceTree = "<group>"; };
+		DC0729B51EF78E41004EBC83 /* libSpeechEngine.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSpeechEngine.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC0729B81EF78E41004EBC83 /* SpeechEngine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpeechEngine.h; sourceTree = "<group>"; };
+		DC0729B91EF78E41004EBC83 /* SpeechEngine.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpeechEngine.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DC0729B21EF78E41004EBC83 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CF0E8EFF245C66EF00D44EBF /* Speech */ = {
+			isa = PBXGroup;
+			children = (
+				CFCCC5E6245DCA1900878101 /* SpeechRecognition.h */,
+				CFCCC5E7245DCA1900878101 /* SpeechRecognition.m */,
+				CF0E8F1A245D5C6400D44EBF /* SpeechRecognitionEngine.h */,
+				CF0E8F00245C671200D44EBF /* MicrophoneRecorder.h */,
+				CF0E8F01245C671200D44EBF /* MicrophoneRecorder.m */,
+				CF0BCC042465B68E000E984F /* AudioDataRingBuffer.h */,
+				CF0BCC052465B68E000E984F /* AudioDataRingBuffer.m */,
+				CFCCC5DF245DC0E900878101 /* google */,
+			);
+			path = Speech;
+			sourceTree = "<group>";
+		};
+		CFCCC5DF245DC0E900878101 /* google */ = {
+			isa = PBXGroup;
+			children = (
+				CFCCC5E3245DC0E900878101 /* GoogleSpeechGRPC.h */,
+				CFCCC5E1245DC0E900878101 /* GoogleSpeechGRPC.m */,
+				CFCCC5E2245DC0E900878101 /* GoogleSpeechRecognitionEngine.h */,
+				CFCCC5E0245DC0E900878101 /* GoogleSpeechRecognitionEngine.m */,
+			);
+			path = google;
+			sourceTree = "<group>";
+		};
+		DC0729AC1EF78E41004EBC83 = {
+			isa = PBXGroup;
+			children = (
+				DC0729B71EF78E41004EBC83 /* SpeechEngine */,
+				DC0729B61EF78E41004EBC83 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DC0729B61EF78E41004EBC83 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DC0729B51EF78E41004EBC83 /* libSpeechEngine.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DC0729B71EF78E41004EBC83 /* SpeechEngine */ = {
+			isa = PBXGroup;
+			children = (
+				CF0E8EFF245C66EF00D44EBF /* Speech */,
+				DC0729B81EF78E41004EBC83 /* SpeechEngine.h */,
+				DC0729B91EF78E41004EBC83 /* SpeechEngine.m */,
+			);
+			path = SpeechEngine;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DC0729B41EF78E41004EBC83 /* SpeechEngine */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC0729BE1EF78E41004EBC83 /* Build configuration list for PBXNativeTarget "SpeechEngine" */;
+			buildPhases = (
+				DC0729B11EF78E41004EBC83 /* Sources */,
+				DC0729B21EF78E41004EBC83 /* Frameworks */,
+				DC0729B31EF78E41004EBC83 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SpeechEngine;
+			productName = Voice;
+			productReference = DC0729B51EF78E41004EBC83 /* libSpeechEngine.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DC0729AD1EF78E41004EBC83 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1120;
+				ORGANIZATIONNAME = Aimesoft.com;
+				TargetAttributes = {
+					DC0729B41EF78E41004EBC83 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = BQE8UXP5LX;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = DC0729B01EF78E41004EBC83 /* Build configuration list for PBXProject "SpeechEngine" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				en,
+			);
+			mainGroup = DC0729AC1EF78E41004EBC83;
+			productRefGroup = DC0729B61EF78E41004EBC83 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DC0729B41EF78E41004EBC83 /* SpeechEngine */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DC0729B11EF78E41004EBC83 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CFCCC5E8245DCA1900878101 /* SpeechRecognition.m in Sources */,
+				DC0729BA1EF78E41004EBC83 /* SpeechEngine.m in Sources */,
+				CFCCC5E5245DC0E900878101 /* GoogleSpeechGRPC.m in Sources */,
+				CFCCC5E4245DC0E900878101 /* GoogleSpeechRecognitionEngine.m in Sources */,
+				CF0BCC062465B68E000E984F /* AudioDataRingBuffer.m in Sources */,
+				CF0E8F02245C671200D44EBF /* MicrophoneRecorder.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		DC0729BC1EF78E41004EBC83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../ios/Pods/Headers/Private/React";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		DC0729BD1EF78E41004EBC83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../ios/Pods/Headers/Private/React";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DC0729BF1EF78E41004EBC83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = BQE8UXP5LX;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SYSTEM_HEADER_SEARCH_PATHS = (
+					"$(SRCROOT)/../node_modules/react-native/React/Base",
+					"$(SRCROOT)/../node_modules/react-native/Libraries",
+				);
+			};
+			name = Debug;
+		};
+		DC0729C01EF78E41004EBC83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = BQE8UXP5LX;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SYSTEM_HEADER_SEARCH_PATHS = (
+					"$(SRCROOT)/../node_modules/react-native/React/Base",
+					"$(SRCROOT)/../node_modules/react-native/Libraries",
+				);
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DC0729B01EF78E41004EBC83 /* Build configuration list for PBXProject "SpeechEngine" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC0729BC1EF78E41004EBC83 /* Debug */,
+				DC0729BD1EF78E41004EBC83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DC0729BE1EF78E41004EBC83 /* Build configuration list for PBXNativeTarget "SpeechEngine" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC0729BF1EF78E41004EBC83 /* Debug */,
+				DC0729C01EF78E41004EBC83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DC0729AD1EF78E41004EBC83 /* Project object */;
+}

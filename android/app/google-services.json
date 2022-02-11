@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950396163516",
+    "firebase_url": "https://shanri-demo.firebaseio.com",
+    "project_id": "shanri-demo",
+    "storage_bucket": "shanri-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950396163516:android:01c4ad3d06efadf292c7b9",
+        "android_client_info": {
+          "package_name": "com.memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950396163516-nob0q66m0tirj16amgrdhob4am83s1oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "950396163516-r477f5qs96upv201skevgogfshlql9ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6vc8shshSUXFP2dHRwLPJBPweZxNCYI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950396163516-r477f5qs96upv201skevgogfshlql9ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

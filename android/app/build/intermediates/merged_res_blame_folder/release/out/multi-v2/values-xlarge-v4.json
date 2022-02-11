@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/home/nguyenlehai/.gradle/caches/transforms-3/c0789d996d192f2cb24f2b83b85d1010/transformed/appcompat-1.2.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

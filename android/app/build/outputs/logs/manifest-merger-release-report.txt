@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/nguyenlehai/.gradle/caches/transforms-3/94bea25eb9477bf920ce6e7f287010b6/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-async-storage_async-storage] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:stream-io_flat-list-mvcp] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/@stream-io/flat-list-mvcp/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.react:react-native:0.66.4] /home/nguyenlehai/.gradle/caches/transforms-3/365d271b0ff32100cd9059cb2a3b465d/transformed/jetified-react-native-0.66.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/57180298ee6291b8564da2c2b15d23a8/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r250230] /home/nguyenlehai/.gradle/caches/transforms-3/c96032ea532b39c4e19b8681cb42a5ec/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/8f36c31aeff1957a6c94ae1f97731b99/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/5d88dbe37eb06e5aa1daa3c2365a2ee7/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/8743dbe06d3da8c7db008fa071bb705a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/583ae27a31be08e8270f0bfa3bc794cd/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/6a318a8a2e9e5d7d54d1972197be7cfd/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/338576fb9cce7d0272994392827fc9ca/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/40522726d7e97633ed232f46fcd57d9f/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/4ae40387f413cade32491b14160f634b/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/0f511aad19531304e94ab420da3a9ea7/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/530fc5756305b9f1f55ef43820a5317f/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/d727526223d789764a5dd2f8db0375f8/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nguyenlehai/.gradle/caches/transforms-3/c0789d996d192f2cb24f2b83b85d1010/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/2b5df674c0407a7dd7ac59b564173983/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/0a4a5fa60dfc72cc8352cabd10a11e3e/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/74f6185054cf9ed669704b004e9864b1/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/b9e7fde6b67d35e129feeab3f824606c/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/nguyenlehai/.gradle/caches/transforms-3/d92eb0fcff557248addf50cf90809a96/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nguyenlehai/.gradle/caches/transforms-3/03064b5a23c2c618d296bdd19f5a3c0a/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/c1af4401b233531a288ba91dc0c1dbe3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/9cda0267d9d00bb0b52d00212a4b442c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/bb20383668fb16e9a19a8df7b94a5f24/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/689af75d8ef14f2f42450e29784a1551/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/05c1df2dad65dd57a93538f7e4ce7532/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/1f0f7d202aa2fe9c427b2a794cb1bc51/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/c044c98ace2738b8bc32890b6ef04bf6/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/8b75be274be3f2942c10b93a3cc25f66/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/1e62ce69ec1f61ca5fbb6e03a999d7cf/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/5d1f1d6f807583557fdac247bece7d6d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/4710e23741baa9775da3c3273e984711/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/55c0c1046b2f955b8a6ccc2a6ba3d372/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nguyenlehai/.gradle/caches/transforms-3/8a9bddf24c985c1e20e8cd8a5817887b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/262ebe5c6b7618b68a4d13311f73fca1/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/457a0ec07a7b954d6313e20773307c20/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/373fc74ac468d447a7cacb6a3df371d4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/63fb77a2a85f0dd25e4387bc05aa2949/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/4b177cce603e07bd6bf3cac89f3c546c/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/f44df1de146faae33fe50946ad049f4f/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] /home/nguyenlehai/.gradle/caches/transforms-3/207648ec1b6fb77b8f8cd54735f7e1d0/transformed/jetified-conscrypt-android-2.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/2acb525089fad6673572b76bae253595/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/6d7924c0cca8c4c375d2fd6de172a5d5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
+MERGED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:4:22-64
+queries
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:5:5-9:15
+intent#action:name:android.speech.RecognitionService
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:6:9-8:18
+action#android.speech.RecognitionService
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:7:13-72
+	android:name
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:7:21-69
+application
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:11:5-31:19
+MERGED from [com.facebook.react:react-native:0.66.4] /home/nguyenlehai/.gradle/caches/transforms-3/365d271b0ff32100cd9059cb2a3b465d/transformed/jetified-react-native-0.66.4/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.66.4] /home/nguyenlehai/.gradle/caches/transforms-3/365d271b0ff32100cd9059cb2a3b465d/transformed/jetified-react-native-0.66.4/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/nguyenlehai/.gradle/caches/transforms-3/d92eb0fcff557248addf50cf90809a96/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/nguyenlehai/.gradle/caches/transforms-3/d92eb0fcff557248addf50cf90809a96/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/55c0c1046b2f955b8a6ccc2a6ba3d372/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/55c0c1046b2f955b8a6ccc2a6ba3d372/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nguyenlehai/.gradle/caches/transforms-3/8a9bddf24c985c1e20e8cd8a5817887b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nguyenlehai/.gradle/caches/transforms-3/8a9bddf24c985c1e20e8cd8a5817887b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] /home/nguyenlehai/.gradle/caches/transforms-3/207648ec1b6fb77b8f8cd54735f7e1d0/transformed/jetified-conscrypt-android-2.5.1/AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] /home/nguyenlehai/.gradle/caches/transforms-3/207648ec1b6fb77b8f8cd54735f7e1d0/transformed/jetified-conscrypt-android-2.5.1/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/55c0c1046b2f955b8a6ccc2a6ba3d372/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowClearUserData
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:14:9-42
+	android:roundIcon
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.markitone_app.MainActivity
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:20:9-30:20
+	android:label
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:24:13-44
+	android:windowSoftInputMode
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:22:13-90
+	android:name
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] /home/nguyenlehai/.gradle/caches/transforms-3/94bea25eb9477bf920ce6e7f287010b6/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/nguyenlehai/.gradle/caches/transforms-3/94bea25eb9477bf920ce6e7f287010b6/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-async-storage_async-storage] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:stream-io_flat-list-mvcp] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/@stream-io/flat-list-mvcp/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:stream-io_flat-list-mvcp] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/@stream-io/flat-list-mvcp/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-11:54
+MERGED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-11:54
+MERGED from [com.facebook.react:react-native:0.66.4] /home/nguyenlehai/.gradle/caches/transforms-3/365d271b0ff32100cd9059cb2a3b465d/transformed/jetified-react-native-0.66.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.4] /home/nguyenlehai/.gradle/caches/transforms-3/365d271b0ff32100cd9059cb2a3b465d/transformed/jetified-react-native-0.66.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/57180298ee6291b8564da2c2b15d23a8/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/57180298ee6291b8564da2c2b15d23a8/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r250230] /home/nguyenlehai/.gradle/caches/transforms-3/c96032ea532b39c4e19b8681cb42a5ec/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /home/nguyenlehai/.gradle/caches/transforms-3/c96032ea532b39c4e19b8681cb42a5ec/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/8f36c31aeff1957a6c94ae1f97731b99/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/8f36c31aeff1957a6c94ae1f97731b99/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/5d88dbe37eb06e5aa1daa3c2365a2ee7/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/5d88dbe37eb06e5aa1daa3c2365a2ee7/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/8743dbe06d3da8c7db008fa071bb705a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/8743dbe06d3da8c7db008fa071bb705a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/583ae27a31be08e8270f0bfa3bc794cd/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/583ae27a31be08e8270f0bfa3bc794cd/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/6a318a8a2e9e5d7d54d1972197be7cfd/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/6a318a8a2e9e5d7d54d1972197be7cfd/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/338576fb9cce7d0272994392827fc9ca/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/338576fb9cce7d0272994392827fc9ca/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/40522726d7e97633ed232f46fcd57d9f/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/40522726d7e97633ed232f46fcd57d9f/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/4ae40387f413cade32491b14160f634b/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/4ae40387f413cade32491b14160f634b/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/0f511aad19531304e94ab420da3a9ea7/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/0f511aad19531304e94ab420da3a9ea7/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/530fc5756305b9f1f55ef43820a5317f/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/530fc5756305b9f1f55ef43820a5317f/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/d727526223d789764a5dd2f8db0375f8/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/d727526223d789764a5dd2f8db0375f8/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nguyenlehai/.gradle/caches/transforms-3/c0789d996d192f2cb24f2b83b85d1010/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nguyenlehai/.gradle/caches/transforms-3/c0789d996d192f2cb24f2b83b85d1010/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/2b5df674c0407a7dd7ac59b564173983/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/2b5df674c0407a7dd7ac59b564173983/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/0a4a5fa60dfc72cc8352cabd10a11e3e/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/0a4a5fa60dfc72cc8352cabd10a11e3e/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/74f6185054cf9ed669704b004e9864b1/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/74f6185054cf9ed669704b004e9864b1/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/b9e7fde6b67d35e129feeab3f824606c/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/b9e7fde6b67d35e129feeab3f824606c/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/nguyenlehai/.gradle/caches/transforms-3/d92eb0fcff557248addf50cf90809a96/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/nguyenlehai/.gradle/caches/transforms-3/d92eb0fcff557248addf50cf90809a96/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nguyenlehai/.gradle/caches/transforms-3/03064b5a23c2c618d296bdd19f5a3c0a/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nguyenlehai/.gradle/caches/transforms-3/03064b5a23c2c618d296bdd19f5a3c0a/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/c1af4401b233531a288ba91dc0c1dbe3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/c1af4401b233531a288ba91dc0c1dbe3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/9cda0267d9d00bb0b52d00212a4b442c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/9cda0267d9d00bb0b52d00212a4b442c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/bb20383668fb16e9a19a8df7b94a5f24/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/bb20383668fb16e9a19a8df7b94a5f24/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/689af75d8ef14f2f42450e29784a1551/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/689af75d8ef14f2f42450e29784a1551/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/05c1df2dad65dd57a93538f7e4ce7532/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/05c1df2dad65dd57a93538f7e4ce7532/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/1f0f7d202aa2fe9c427b2a794cb1bc51/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/1f0f7d202aa2fe9c427b2a794cb1bc51/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/c044c98ace2738b8bc32890b6ef04bf6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/c044c98ace2738b8bc32890b6ef04bf6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/8b75be274be3f2942c10b93a3cc25f66/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/8b75be274be3f2942c10b93a3cc25f66/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/1e62ce69ec1f61ca5fbb6e03a999d7cf/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/1e62ce69ec1f61ca5fbb6e03a999d7cf/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/5d1f1d6f807583557fdac247bece7d6d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/5d1f1d6f807583557fdac247bece7d6d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/4710e23741baa9775da3c3273e984711/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/4710e23741baa9775da3c3273e984711/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/55c0c1046b2f955b8a6ccc2a6ba3d372/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/nguyenlehai/.gradle/caches/transforms-3/55c0c1046b2f955b8a6ccc2a6ba3d372/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nguyenlehai/.gradle/caches/transforms-3/8a9bddf24c985c1e20e8cd8a5817887b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nguyenlehai/.gradle/caches/transforms-3/8a9bddf24c985c1e20e8cd8a5817887b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/262ebe5c6b7618b68a4d13311f73fca1/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/262ebe5c6b7618b68a4d13311f73fca1/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/457a0ec07a7b954d6313e20773307c20/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/457a0ec07a7b954d6313e20773307c20/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/373fc74ac468d447a7cacb6a3df371d4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/373fc74ac468d447a7cacb6a3df371d4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/63fb77a2a85f0dd25e4387bc05aa2949/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/63fb77a2a85f0dd25e4387bc05aa2949/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/4b177cce603e07bd6bf3cac89f3c546c/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/4b177cce603e07bd6bf3cac89f3c546c/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/f44df1de146faae33fe50946ad049f4f/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nguyenlehai/.gradle/caches/transforms-3/f44df1de146faae33fe50946ad049f4f/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] /home/nguyenlehai/.gradle/caches/transforms-3/207648ec1b6fb77b8f8cd54735f7e1d0/transformed/jetified-conscrypt-android-2.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] /home/nguyenlehai/.gradle/caches/transforms-3/207648ec1b6fb77b8f8cd54735f7e1d0/transformed/jetified-conscrypt-android-2.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/2acb525089fad6673572b76bae253595/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/nguyenlehai/.gradle/caches/transforms-3/2acb525089fad6673572b76bae253595/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/6d7924c0cca8c4c375d2fd6de172a5d5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nguyenlehai/.gradle/caches/transforms-3/6d7924c0cca8c4c375d2fd6de172a5d5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:9-51
+	android:targetSdkVersion
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from [:speech-engine] /media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/node_modules/speech-engine/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-68

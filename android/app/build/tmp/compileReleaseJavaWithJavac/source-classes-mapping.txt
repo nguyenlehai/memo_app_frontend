@@ -1,0 +1,9 @@
+com/markitone_app/BuildConfig.java
+ com.markitone_app.BuildConfig
+com/markitone_app/MainActivity.java
+ com.markitone_app.MainActivity
+com/markitone_app/MainApplication.java
+ com.markitone_app.MainApplication
+ com.markitone_app.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

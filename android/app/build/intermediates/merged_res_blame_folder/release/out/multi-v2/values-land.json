@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/nguyenlehai/HaiNL1/MARKITONE/markitone_frontend/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/nguyenlehai/.gradle/caches/transforms-3/c0789d996d192f2cb24f2b83b85d1010/transformed/appcompat-1.2.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

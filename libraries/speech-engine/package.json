@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Trinh Quan",
+    "email": "quantv@aimesoft.com"
+  },
+  "homepage": "https://aimesoft.com",
+  "bugs": {
+    "url": "https://github.com/react-native-community/voice/issues"
+  },
+  "dependencies": {
+    "@types/invariant": "^2.2.35",
+    "invariant": "^2.2.4"
+  },
+  "description": "React Native Native Voice library for iOS and Android",
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^0.0.7",
+    "@types/react-native": "^0.66.8",
+    "eslint": "^6.8.0",
+    "react": "16.13.1",
+    "react-native": "0.63.2",
+    "typescript": "3.8.3"
+  },
+  "license": "MIT",
+  "name": "speech-engine",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src/*",
+    "prepare": "yarn build",
+    "semantic-release": "semantic-release",
+    "start": "yarn --cwd example start",
+    "type-check": "tsc -noEmit"
+  },
+  "types": "dist/index.d.ts",
+  "version": "1.0.1"
+}
