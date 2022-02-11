@@ -1,5 +1,10 @@
-# markitone_frontend
+# markitone_frontend using React Native
 
+Run app:
+<p>1, Run app in Android Studio (Run -> Run app)</p>
+<p>2, Run in IntelliJ IDEA: npx react-native start</p>
+<p>3, Shake device -> Choose Settings -> Enter your IP V4 & port in "Debug server hosts & pport for device"</p>
+<p>Example: 192.168.1.152:8081</p>
 
 
 ## Getting started
